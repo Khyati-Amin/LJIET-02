@@ -1,3 +1,4 @@
+//CALCULATE AREA OF CIRCLE BY TAKING THE VALUE OF RADIUS FROM USER.
 package lec1;
 
 import java.util.Scanner;
