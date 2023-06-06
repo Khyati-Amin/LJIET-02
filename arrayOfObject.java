@@ -1,3 +1,4 @@
+//WAP to create array of 5 students and take student details from user.
 package array;
 
 import java.util.*;
