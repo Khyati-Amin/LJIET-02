@@ -1,3 +1,4 @@
+//WAP to count the total objects of a Employee class.
 package cntobj;
 
 public class Employee 
